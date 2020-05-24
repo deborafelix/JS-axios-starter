@@ -1,6 +1,6 @@
 # Exercício API
 
-Exercício feito no curso starter da rockeaset, consome uma API com AXIOS, XMLHttpRequest e usando Promise.
+Exercício feito no curso starter da rockeaseat, consome uma API com AXIOS, XMLHttpRequest e usando Promise.
 
 ## Como Iniciar 
 
